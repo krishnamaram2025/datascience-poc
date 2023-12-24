@@ -1,0 +1,7 @@
+py4j
+pandas
+Werkzeug
+numpy
+pyspark
+findspark
+scikit-learn
